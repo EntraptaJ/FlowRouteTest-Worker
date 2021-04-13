@@ -1,6 +1,7 @@
 type = "webpack"
+name = "cell-worker"
 zone_id = ""
-account_id = ""
+account_id = "1843a582e4e2f4676d884da62c4ebb19"
 route = ""
 workers_dev = true
 webpack_config = "webpack.config.js"
